@@ -20,7 +20,7 @@
 - Integração com Apex
 - Arquitetura escalável baseada em LWC
 
-📄 [Documentação Detalhada (Markdown)](./ProjetcSearch.md)
+📄 [Documentação Detalhada (Markdown)](./SearchProject.md)
 
 ---
 
