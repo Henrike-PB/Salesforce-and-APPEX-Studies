@@ -1,18 +1,5 @@
 title: Salesforce & APPEX Studies
 description: Estudos práticos com Apex, LWC e arquitetura moderna no Salesforce.
 theme: jekyll-theme-minimal
+logo: ./assets/logo.png
 show_downloads: false
-
-# Configurações de navegação
-nav_order: 1
-logo: /assets/logo.png
-
-# Ativar pesquisa (search)
-search_enabled: true
-
-# Base URL para o Pages
-# (deixe em branco se estiver na branch 'docs' em um user/org repo)
-baseurl: ""
-
-# Link para seu repositório (aparece no topo da página)
-repository_url: https://github.com/HenrikeBraga/Salesforce-and-APPEX-Studies
