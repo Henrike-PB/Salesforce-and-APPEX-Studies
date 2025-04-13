@@ -1,0 +1,17 @@
+title: Salesforce & APPEX Studies
+description: Projetos e estudos em Salesforce usando LWC, Apex e boas práticas.
+theme: just-the-docs
+
+# Configurações de navegação
+nav_order: 1
+logo: /assets/logo.png
+
+# Ativar pesquisa (search)
+search_enabled: true
+
+# Base URL para o Pages
+# (deixe em branco se estiver na branch 'docs' em um user/org repo)
+baseurl: ""
+
+# Link para seu repositório (aparece no topo da página)
+repository_url: https://github.com/HenrikeBraga/Salesforce-and-APPEX-Studies

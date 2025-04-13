@@ -1,3 +1,9 @@
+---
+title: Projeto Search
+parent: Salesforce & APPEX Studies
+nav_order: 1
+---
+
 # Documentação do Projeto Projeto Search
 
 ## Visão Geral

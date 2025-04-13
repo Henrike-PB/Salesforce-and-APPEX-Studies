@@ -1,15 +1,24 @@
+---
+title: Salesforce & APPEX Studies
+nav_order: 1
+has_children: true
+---
+
 # Salesforce & AppExchange Studies
 
 Bem-vindo ao repositório **Salesforce-and-APPEX-Studies**! Aqui você encontrará projetos, estudos e exemplos práticos com foco em desenvolvimento Salesforce, incluindo Apex, LWC e arquitetura de soluções.
 
 ---
 
-### 📚 Sumário Visual – Projetos e Conteúdos
+## 📚 Projetos
 
-| 🔍 Projetos                     | 📖 Documentação          | 🧠 Conceitos e Estudo         |
-|-------------------------------|---------------------------|-------------------------------|
-| [Projeto Search](./ProjetoSearch.md) | [README](./README.md)         | [Conceitos Salesforce](#conceitos-e-estudo) |
-| _Em breve: Projeto Kanban_     | _Em breve: Guia de Contribuição_ | [Glossário Técnico](#glossário-técnico)       |
+### 🔍 [Projeto Search](./docs/searchProject.md)
+Sistema de busca e visualização de projetos customizados no Salesforce com controle de histórico recente.
+
+### 🧠 [Conceitos Salesforce](./docs/conceitosSalesforce.md)
+Glossário e explicações fundamentais sobre os principais conceitos da plataforma Salesforce, Apex, LWC, etc.
+
+### 🚧 Em breve novos projetos...
 
 ---
 
