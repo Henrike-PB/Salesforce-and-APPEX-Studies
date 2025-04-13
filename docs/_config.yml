@@ -1,6 +1,7 @@
 title: Salesforce & APPEX Studies
-description: Projetos e estudos em Salesforce usando LWC, Apex e boas práticas.
-theme: just-the-docs
+description: Estudos práticos com Apex, LWC e arquitetura moderna no Salesforce.
+theme: jekyll-theme-minimal
+show_downloads: false
 
 # Configurações de navegação
 nav_order: 1
