@@ -20,7 +20,7 @@
 - Integração com Apex
 - Arquitetura escalável baseada em LWC
 
-📄 [Documentação Detalhada (Markdown)](./searchProject.md)
+📄 [Documentação Detalhada (Markdown)](./docs/searchProject.md)
 
 ---
 
@@ -42,16 +42,6 @@ Este repositório tem como foco:
 - 📦 Salesforce DX & Metadata API
 - 👥 User Context com `UserInfo.getUserId()`
 - 🧾 Custom Objects e Record Pages
-
----
-
-## 🚀 Como Contribuir
-
-1. Faça um fork 📌
-2. Crie sua branch (`git checkout -b feature/sua-funcionalidade`)
-3. Commit suas alterações (`git commit -m 'feat: nova funcionalidade'`)
-4. Push na branch (`git push origin feature/sua-funcionalidade`)
-5. Abra um Pull Request 🚀
 
 ---
 
