@@ -60,5 +60,5 @@ Sistema de busca e exibição de Projetos personalizados (`Project__c`), com reg
 
 ---
 
-🧑‍💻 Desenvolvido por [HenrikeBraga](https://github.com/HenrikeBraga)
+🧑‍💻 Desenvolvido por [Henrike Pajares Braga](https://github.com/Henrike-PB)
 
