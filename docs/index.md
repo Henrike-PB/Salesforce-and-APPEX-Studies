@@ -12,10 +12,10 @@ Bem-vindo ao repositório **Salesforce-and-APPEX-Studies**! Aqui você encontrar
 
 ## 📚 Projetos
 
-### 🔍 [Projeto Search](docs/searchProject.md)
+### 🔍 [Projeto Search](Salesforce-and-APPEX-Studies/docs/searchProject.md)
 Sistema de busca e visualização de projetos customizados no Salesforce com controle de histórico recente.
 
-### 🧠 [Conceitos Salesforce](docs/conceitosSalesforce.md)
+### 🧠 [Conceitos Salesforce](Salesforce-and-APPEX-Studies/docs/conceitosSalesforce.md)
 Glossário e explicações fundamentais sobre os principais conceitos da plataforma Salesforce, Apex, LWC, etc.
 
 ### 🚧 Em breve novos projetos...
