@@ -1,3 +1,9 @@
+---
+title: Configuração do VS Code para Desenvolvimento Salesforce
+parent: Salesforce & APPEX Studies
+nav_order: 3
+---
+
 # Configuração do VS Code para Desenvolvimento Salesforce
 
 Aqui está um guia passo a passo detalhado para configurar o Visual Studio Code para desenvolvimento com Salesforce.
