@@ -35,7 +35,7 @@ Este repositório foi criado com o objetivo de reunir soluções reais usando te
 ### 📌 Projeto Search
 Sistema de busca e exibição de Projetos personalizados (`Project__c`), com registro automático dos Projetos recentemente visualizados.
 
-🔗 Acesse a documentação completa: [Projeto Search](./ProjetoSearch.md)
+🔗 Acesse a documentação completa: [Projeto Search](./searchProject.md)
 
 ---
 
