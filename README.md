@@ -49,9 +49,8 @@ Este repositório tem como foco:
 
 Acesse a landing page com a documentação e links rápidos:
 
-➡️ [**Projeto Search - GitHub Pages**](https://henrikebraga.github.io/Salesforce-and-APPEX-Studies)
+➡️ [**Projeto Search - GitHub Pages**](https://henrike-pb.github.io/Salesforce-and-APPEX-Studies/)
 
-> _Certifique-se de ativar o GitHub Pages com a branch `main` e pasta `/ (root)`._
 
 ---
 
